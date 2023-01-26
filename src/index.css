@@ -65,7 +65,7 @@ video {
 }
 
 .btn {
-  border: 2px solid rgb(57, 134, 250);
+  border: 2px solid rgb(255, 255, 255);
   padding: 10px 1rem;
   border-radius: 5px;
   cursor: pointer;
@@ -75,7 +75,7 @@ video {
 }
 
 .PrimaryBtn {
-  background: rgb(57, 134, 250);
+  background: rgb(119, 119, 121);
   color: #f6f6f6;
 }
 

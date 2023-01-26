@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import Header from "./Header";
 import styled, { keyframes } from "styled-components";
 import { Link as LinkScroll } from "react-scroll";
@@ -126,14 +126,9 @@ const ScrollLink = styled.div`
 
 
 function Hero() {
-  const [isOpen, setIsOpen] = useState(false);
-
-  const toggle = () => {
-    setIsOpen(!isOpen);
-  };
-  return (
+   return (
     <main>
-      <Header toggle={toggle} />
+      <Header />
       <HeroContainer>
         <HeroWrapper>
           <HeroLeft>
@@ -145,8 +140,8 @@ function Hero() {
           </HeroLeft>
           <HeroRight>
             <Image
-              src="https://imgur.com/pAuJxTp.png"
-              alt="man-svgrepo"
+              src="https://imgur.com/wTBfRR9.png"
+              alt="code"
             />
           </HeroRight>
         </HeroWrapper>

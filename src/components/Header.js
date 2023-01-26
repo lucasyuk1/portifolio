@@ -1,5 +1,4 @@
 import React from "react";
-import { FaBars } from "react-icons/fa";
 import { Link as ScrollLink } from "react-scroll";
 import styled from "styled-components";
 
@@ -24,16 +23,6 @@ const NavLink = styled(ScrollLink)`
   }
 `;
 
-const Bars = styled(FaBars)`
-  display: none;
-  color: #fff;
-  font-size: 1.8rem;
-  cursor: pointer;
-  @media screen and (max-width: 768px) {
-    display: block;
-  }
-`;
-
 const NavMenu = styled.div`
   display: flex;
   align-items: center;
@@ -41,9 +30,6 @@ const NavMenu = styled.div`
 
   .menu-item + .menu-item {
     margin-left: 1rem;
-  }
-  @media screen and (max-width: 768px) {
-    display: none;
   }
 `;
 
@@ -57,7 +43,7 @@ const NavBtn = styled.nav`
   }
 `;
 
-const Header = ({ toggle }) => {
+const Header = () => {
   return (
     <div className="Container">
       <Nav>
@@ -82,7 +68,6 @@ const Header = ({ toggle }) => {
             Resume
           </a>
         </NavBtn>
-        <Bars onClick={toggle} />
       </Nav>
     </div>
   );

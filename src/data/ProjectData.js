@@ -17,6 +17,16 @@ export const ProjectList = [
     github_url: "https://github.com/lucasyuk1/lucas-silveira-whos-that-pokemon",
     demo_url: "https://lucasyuk1.github.io/lucas-silveira-whos-that-pokemon/",
   },
+  {
+    img: "https://imgur.com/XLmaiW5.png",
+    title: "Portfolio",
+    description:
+      "I made my own personal portfolio website.",
+    tech_stack: "React, Css",
+    github_url: "https://github.com/lucasyuk1/portifolio",
+    demo_url: "https://lucasyuk1.github.io/portifolio/",
+  },
+  
 ];
 
 // --------------------------------------- Skills
