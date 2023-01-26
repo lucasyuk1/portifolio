@@ -18,6 +18,14 @@ export const ProjectList = [
     demo_url: "https://lucasyuk1.github.io/lucas-silveira-whos-that-pokemon/",
   },
   {
+    img: "https://jestjs.io/pt-BR/img/opengraph.png",
+    title: "ES6 and Unit Tests",
+    description:
+      "Functions developed following specific requirements and implemented unit tests to certify them.",
+    tech_stack: "Jest, Javascript",
+    github_url: "https://github.com/lucasyuk1/unit-tests",
+  },
+  {
     img: "https://imgur.com/XLmaiW5.png",
     title: "Portfolio",
     description:
@@ -25,8 +33,16 @@ export const ProjectList = [
     tech_stack: "React, Css",
     github_url: "https://github.com/lucasyuk1/portifolio",
     demo_url: "https://lucasyuk1.github.io/portifolio/",
-  },
-  
+  },  
+  {
+    img: "https://imgur.com/rSdXcfM.png",
+    title: "E-commerce",
+    description:
+      "Online store building with api from Mercado Livre",
+    tech_stack: "React, Css",
+    github_url: "https://github.com/lucasyuk1/online-store",
+    demo_url: "https://lucasyuk1.github.io/online-store/",
+  }, 
 ];
 
 // --------------------------------------- Skills

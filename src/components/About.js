@@ -24,7 +24,7 @@ function About() {
           </div>
           <br></br>   
           <div className="AboutBio tagline2">
-          <strong>Technologies I study/I am studying:</strong> 
+          <strong>Skills learned:</strong> 
           </div>
           <Technologies>
             {stackList.map((stack, index) => (
@@ -36,7 +36,7 @@ function About() {
           </Technologies>          
           <br></br>    
           <div className="AboutBio tagline2">
-          <strong>Technologies I will study:</strong> 
+          <strong>Skills to learn:</strong> 
           </div>
           <Technologies>
             {stackList2.map((stack, index) => (
