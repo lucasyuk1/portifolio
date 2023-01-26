@@ -3,7 +3,7 @@ export const ProjectList = [
   {
     img: "https://imgur.com/qDIeb2G.png",
     title: "Pixels Art",
-    description: "Editor de arte com pixels em que a pessoa usuária pode escolher uma cor em uma paleta de cores e poderá pintar o que quiser em um quadro branco",
+    description: "Pixel art editor where the user can choose a color from a palette and paint whatever he wants on a whiteboard.",
     tech_stack: "Html, Css, Javascript",
     github_url: "https://github.com/lucasyuk1/lucas-silveira-pixelarts",
     demo_url: "https://lucasyuk1.github.io/lucas-silveira-pixelarts/",
@@ -12,7 +12,7 @@ export const ProjectList = [
     img: "https://imgur.com/9nKPV0s.png",
     title: "Who's That Pokemon?",
     description:
-      "Jogo de adivinhar qual pokemon é pela sombra",
+      "Game to guess which pokemon it is by shadow",
     tech_stack: "Html, Css, Javascript",
     github_url: "https://github.com/lucasyuk1/lucas-silveira-whos-that-pokemon",
     demo_url: "https://lucasyuk1.github.io/lucas-silveira-whos-that-pokemon/",

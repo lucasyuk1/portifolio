@@ -20,11 +20,11 @@ function About() {
             alt="man-svgrepo"
           />
           <div className="AboutBio">
-            Meu nome é <strong>Lucas C. Silveira</strong> sou formado em Análise e Desenvolvimento de Sistemas(UNILEÃO) e atualmente estudante da Trybe. Brasileiro, 30 anos, morador de São José do Norte-RS. Grande apreciador de animações, jogos no geral e cozinheiro nas horas vagas.
+            My name is <strong>Lucas C. Silveira</strong> i graduated in Software Analysis and Development(by UNILEÃO) and currently a student at Trybe. Brazilian, 30 years old, living in São José do Norte-RS. Great lover of animations, games and a cooker in my spare time.
           </div>
           <br></br>   
           <div className="AboutBio tagline2">
-          <strong>Tecnologias que estudo/estou estudando:</strong> 
+          <strong>Technologies I study/I am studying:</strong> 
           </div>
           <Technologies>
             {stackList.map((stack, index) => (
@@ -36,7 +36,7 @@ function About() {
           </Technologies>          
           <br></br>    
           <div className="AboutBio tagline2">
-          <strong>Tecnologias que irei estudar:</strong> 
+          <strong>Technologies I will study:</strong> 
           </div>
           <Technologies>
             {stackList2.map((stack, index) => (
