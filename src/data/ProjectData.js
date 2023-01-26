@@ -34,15 +34,15 @@ export const ProjectList = [
     github_url: "https://github.com/lucasyuk1/portifolio",
     demo_url: "https://lucasyuk1.github.io/portifolio/",
   },  
-  {
-    img: "https://imgur.com/rSdXcfM.png",
-    title: "E-commerce",
-    description:
-      "Online store building with api from Mercado Livre",
-    tech_stack: "React, Css",
-    github_url: "https://github.com/lucasyuk1/online-store",
-    demo_url: "https://lucasyuk1.github.io/online-store/",
-  }, 
+  // {
+  //   img: "https://imgur.com/rSdXcfM.png",
+  //   title: "E-commerce",
+  //   description:
+  //     "Online store building with api from Mercado Livre",
+  //   tech_stack: "React, Css",
+  //   github_url: "https://github.com/lucasyuk1/online-store",
+  //   demo_url: "https://lucasyuk1.github.io/online-store/",
+  // }, 
 ];
 
 // --------------------------------------- Skills
