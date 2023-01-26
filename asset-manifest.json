@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//lucasyuk1.github.io/portifolio/static/css/main.e98bdff6.css",
+    "main.js": "//lucasyuk1.github.io/portifolio/static/js/main.4607df0f.js",
+    "index.html": "//lucasyuk1.github.io/portifolio/index.html",
+    "main.e98bdff6.css.map": "//lucasyuk1.github.io/portifolio/static/css/main.e98bdff6.css.map",
+    "main.4607df0f.js.map": "//lucasyuk1.github.io/portifolio/static/js/main.4607df0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e98bdff6.css",
+    "static/js/main.4607df0f.js"
+  ]
+}
