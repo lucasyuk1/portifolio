@@ -35,7 +35,7 @@ export const ProjectList = [
     demo_url: "https://lucasyuk1.github.io/portifolio/",
   },  
   {
-    img: "https://imgur.com/fKwEpnu.png",
+    img: "https://miro.medium.com/max/500/1*FdcfXXlYDEDNGToFjA_B4w.jpeg",
     title: "React Tests",
     description:
       "Tests made to coverage a application with Pokemon API",
