@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 const FooterSection = styled.div`
-  background-image: url(https://reboundsa.com/wp-content/uploads/2016/06/blue-wave-footer.png);
+  background-image: url(https://svgshare.com/i/CbP.svg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
