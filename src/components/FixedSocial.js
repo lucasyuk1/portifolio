@@ -1,5 +1,5 @@
 import React from "react";
-import { FaLinkedin, FaInstagram, FaGithub } from "react-icons/fa";
+import { FaLinkedin, FaGithub } from "react-icons/fa";
 import styled from "styled-components";
 
 const Social = styled.div`
@@ -50,15 +50,6 @@ function FixedSocial() {
             rel="noopener noreferrer"
           >
             <FaGithub />
-          </a>
-        </li>
-        <li className="item">
-          <a
-            href="https://www.instagram.com/yuuk1senpai/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <FaInstagram />
           </a>
         </li>
       </ul>

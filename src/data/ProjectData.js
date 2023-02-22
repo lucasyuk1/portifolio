@@ -26,15 +26,6 @@ export const ProjectList = [
     github_url: "https://github.com/lucasyuk1/unit-tests",
   },
   {
-    img: "https://imgur.com/XLmaiW5.png",
-    title: "Portfolio",
-    description:
-      "I made my own personal portfolio website.",
-    tech_stack: "React, Css",
-    github_url: "https://github.com/lucasyuk1/portifolio",
-    demo_url: "https://lucasyuk1.github.io/portifolio/",
-  },  
-  {
     img: "https://miro.medium.com/max/500/1*FdcfXXlYDEDNGToFjA_B4w.jpeg",
     title: "React Tests",
     description:
@@ -42,6 +33,15 @@ export const ProjectList = [
     tech_stack: "RTL",
     github_url: "https://github.com/lucasyuk1/online-store",
     demo_url: "https://lucasyuk1.github.io/online-store/",
+  }, 
+  {
+    img: "https://imgur.com/im3nxLE.png",
+    title: "Trybe Trivia",
+    description:
+      "A tradicional trivia game with ranking",
+    tech_stack: "React, Redux, RTL",
+    github_url: "https://github.com/lucasyuk1/trybe-trivia",
+    demo_url: "https://lucasyuk1.github.io/trybe-trivia/",
   }, 
 ];
 
