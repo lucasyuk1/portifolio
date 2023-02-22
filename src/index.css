@@ -5,7 +5,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  scroll-behavior: smooth;
 }
 body {
   font-family: "Poppins", sans-serif;
@@ -77,6 +76,7 @@ video {
 .PrimaryBtn {
   background: rgb(119, 119, 121);
   color: #f6f6f6;
+  display: none;
 }
 
 .PrimaryBtn:hover {
