@@ -31,8 +31,6 @@ export const ProjectList = [
     description:
       "Tests made to coverage a application with Pokemon API",
     tech_stack: "RTL",
-    github_url: "https://github.com/lucasyuk1/online-store",
-    demo_url: "https://lucasyuk1.github.io/online-store/",
   }, 
   {
     img: "https://imgur.com/im3nxLE.png",

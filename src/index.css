@@ -76,7 +76,6 @@ video {
 .PrimaryBtn {
   background: rgb(119, 119, 121);
   color: #f6f6f6;
-  display: none;
 }
 
 .PrimaryBtn:hover {
