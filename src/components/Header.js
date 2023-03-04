@@ -61,7 +61,7 @@ const Header = () => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="https://github.com/lucasyuk1/"
+            href="https://drive.google.com/file/d/1D25ZD4RuWaBtN2ksdUPJnGWQ34oB5TmV/view?usp=share_link"
             target="_blank"
             rel="noopener noreferrer"
           >

@@ -36,7 +36,7 @@ function FixedSocial() {
       <ul>
         <li className="item">
           <a
-            href="https://www.linkedin.com/in/lucas-c-silveira-8b3a09127/"
+            href="https://www.linkedin.com/in/lucasyuk1/"
             target="_blank"
             rel="noopener noreferrer"
           >
