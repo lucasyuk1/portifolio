@@ -63,7 +63,7 @@ export const stackList = [
     name: "ReactJS",
   },
   {
-    img: "https://symbols.getvecta.com/stencil_25/71_redux.da27ac619d.png",
+    img: "https://symbols.getvecta.com/stencil_25/73_redux.da27ac619d.svg",
     name: "Redux",
   },  
   {
@@ -95,7 +95,7 @@ export const stackList2 = [
     name: "SQL",
   },
   {
-    img: "https://symbols.getvecta.com/stencil_25/85_typescript.cb2d7326fa.png",
+    img: "https://symbols.getvecta.com/stencil_25/87_typescript.cb2d7326fa.png",
     name: "TypeScript",
   },
   {
