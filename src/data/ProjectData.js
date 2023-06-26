@@ -103,7 +103,7 @@ export const stackList2 = [
     name: "Mongo",
   },
   {
-    img: "https://symbols.getvecta.com/stencil_25/67_python.34cfd522d6.png",
+    img: "https://symbols.getvecta.com/stencil_25/69_python.34cfd522d6.png",
     name: "Python",
   },
 ];
